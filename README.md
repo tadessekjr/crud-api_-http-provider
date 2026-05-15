@@ -11,3 +11,4 @@ A simple Flutter application for managing blog posts with full CRUD operations u
 
 ![image alt](https://github.com/tadessekjr/crud-api_-http-provider/blob/2aa6446df680ccff056fbf6fb11ed87e03238444/Screenshot%202026-05-12%20120941.png)
 
+![image alt}(https://github.com/tadessekjr/crud-api_-http-provider/blob/9a9f76863580784c0ce38c6f530635b661a55a1d/Screenshot%202026-05-15%20075421.png)
