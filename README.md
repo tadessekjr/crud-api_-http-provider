@@ -4,6 +4,7 @@ A simple Flutter application for managing blog posts with full CRUD operations u
 
 #It uses a flutter framework with provider acting as a state mangment and http acting as a client for the request, also mentioning with the help of  JSONPlaceholder API.
 #At last i used shared_preferences for local storage for storing previous posts that are not deleted.
+#screenshots:
 
 ![image alt](https://github.com/tadessekjr/crud-api_-http-provider/blob/d2c5fa9bd51abac2b28cbe56b4b4e31a711e41fc/Screenshot%202026-05-12%20115117.png)
 
